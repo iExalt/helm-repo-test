@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  helm-test:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-10-23T13:32:06.663937-07:00"
+    description: test
+    digest: 94ebad70838f5768ba72989ed2010c6cb0b42329fe6da82862f2e56d6d71d491
+    kubeVersion: '>=1.17.0-0'
+    name: helm-test
+    type: application
+    urls:
+    - helm-test-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-10-23T13:32:06.663959-07:00"
