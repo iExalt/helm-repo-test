@@ -1,0 +1,9 @@
+apiVersion: v2
+name: helm-test
+description: test
+
+type: application
+version: 0.0.1
+appVersion: 0.0.1
+
+kubeVersion: ">=1.17.0-0"
